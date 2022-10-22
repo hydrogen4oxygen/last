@@ -70,7 +70,7 @@ nav {
 .imgtxtmore{
     position: absolute;
     bottom: 130px;
-    left: 80px;
+    left: 0px;
     font-weight: bold;
     font-size: 50px;
 }
